@@ -18,7 +18,7 @@
 	OLED_ShowHexNum(3, 1, 0xAA55, 4);
 	OLED_ShowBinNum(4, 1, 0xAA55, 16);
 	 
-  
+  dfgsdfgdsf≤‚ ‘
 	 
 	 while(1)
 	 {
